@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 First Repository
 <br>
-Author : Swayum Hastwala
+Author : Swayum 
